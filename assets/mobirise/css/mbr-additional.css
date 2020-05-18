@@ -1074,6 +1074,10 @@ section.lazy-placeholder:after {
 .cid-rYp8G7Jqaa H1 {
   color: #232323;
 }
+.cid-rYp8G7Jqaa .mbr-text,
+.cid-rYp8G7Jqaa .mbr-section-btn {
+  text-align: left;
+}
 .cid-rYkODggQLJ {
   padding-top: 30px;
   padding-bottom: 30px;
