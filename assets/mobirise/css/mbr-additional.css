@@ -876,7 +876,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rYkvpRSCJ1 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.5rem);
+    max-height: calc(98.5vh - 5.8rem);
   }
 }
 .cid-rYkvpRSCJ1 .collapsed button.navbar-toggler {
@@ -1035,7 +1035,7 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-rYkvyZUlJr {
-  background-image: url("../../../assets/images/img-7951-1900x1267.jpg");
+  background-image: url("../../../assets/images/img-7951.jpg");
 }
 .cid-rYkvyZUlJr H1 {
   text-align: center;
